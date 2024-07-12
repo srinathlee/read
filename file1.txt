@@ -1,2 +1,3 @@
 hello this is line one
 want to push into repo2
+now it will work
